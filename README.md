@@ -1,4 +1,4 @@
-# This is my project title
+# A Sample DAO for Crypto Devs
 
 This sentence describes what my project is about summarized.
 
